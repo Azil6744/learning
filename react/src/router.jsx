@@ -23,6 +23,10 @@ const router = createBrowserRouter ([
             path: '/survey',
             element: <Survey />
         },
+        {
+            path: '/survey',
+            element: <Survey1 />
+        },
     ]
    },
    {
